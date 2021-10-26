@@ -1,4 +1,4 @@
-# construdelas
-## atividade: alunos-notas
+# ConstruDelas
+## Atividade: alunos-notas
 
-atividadezinha só para calcular a nota dos alunos
+Esse programinha calcula as notas de 5 alunos
